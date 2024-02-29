@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1709232900779,
+      "path": "electrical"
+    },
+    {
+      "type": "folder",
+      "ctime": 1709232911723,
+      "path": "mechanical"
+    },
+    {
+      "type": "folder",
+      "ctime": 1709232918835,
+      "path": "misc",
+      "title": "misc"
+    }
+  ]
+}
