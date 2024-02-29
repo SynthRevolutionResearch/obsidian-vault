@@ -11,12 +11,8 @@
             "id": "93096d64ba5a3135",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mechanical/concepts/mechanical - summary ideas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mechanical/concepts/mechanical - summary ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mechanical/concepts/mechanical - summary ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "mechanical/concepts/mechanical - summary ideas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,9 +135,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "93096d64ba5a3135",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "misc/Stage one - concepts brainstorming.md",
+    "misc/project software.md",
+    "mechanical/concepts/mechanical - summary ideas.md",
+    "mechanical/concepts/drawings/visor concept.md",
+    "mechanical/concepts/drawings/logo_pre.svg",
+    "mechanical/concepts/drawings/logo_pre.md"
+  ]
 }
