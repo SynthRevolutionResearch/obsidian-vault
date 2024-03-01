@@ -5,7 +5,7 @@ cssclasses: left
 
 For easy collab we must use same software tools
 so, current software is:
-CAD: main cad's are free [fusion360]() and compatible with it  [Inventor2019](). But for more ease use, provide a .step files of your work, along your native CAD project files.
+CAD: main cad's are free [fusion360]() and compatible with it (but not free)  [Inventor2019](). But for more ease use, provide a .step files of your work, along your native CAD project files. (if you prefer to use other CAD's instead)
 General 3d modelling: [blender3d]()
 Notes and etc: [obsidian]()
 Version control: [github]() and [external local mirrors]()
