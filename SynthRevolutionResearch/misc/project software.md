@@ -1,4 +1,7 @@
-![[logo_pre.svg|200]] *PROJECT SOFTWARE*
+---
+cssclasses: left
+---
+![[logo_pre.svg|left|200]]*PROJECT SOFTWARE*
 
 For easy collab we must use same software tools
 so, current software is:
