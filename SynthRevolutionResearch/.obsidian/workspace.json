@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/project software.md",
+                "file": "mechanical/concepts/project goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/project software.md",
+                "file": "mechanical/concepts/project goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/project software.md",
+                "file": "mechanical/concepts/project goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/project software.md"
+                "file": "mechanical/concepts/project goals.md"
               }
             }
           }
@@ -149,13 +149,21 @@
   },
   "active": "93096d64ba5a3135",
   "lastOpenFiles": [
-    "misc/Stage one - concepts brainstorming.md",
-    "misc/project software.md",
+    "mechanical/concepts/drawings/logov2.svg",
+    "mechanical/concepts/drawings/logo 1 1.md",
+    "mechanical/concepts/project goals.md",
     "mechanical/concepts/mechanical - summary ideas.md",
     "mechanical/concepts/drawings/visor concept.md",
-    "stator.png",
-    "Untitled.canvas",
+    "mechanical/concepts/drawings/logo_pre.md",
+    "mechanical/concepts/drawings/logo 1.md",
+    "misc/project software.md",
+    "misc/Stage one - concepts brainstorming.md",
+    "mechanical/concepts/drawings/logo.svg",
     "mechanical/concepts/drawings/logo_pre.svg",
-    "mechanical/concepts/drawings/logo_pre.md"
+    "mechanical/concepts/drawings/logo.md",
+    "Excalidraw/Drawing 2024-03-01 22.14.35.excalidraw.md",
+    "mechanical/concepts/drawings/kinematics concept.md",
+    "stator.png",
+    "Untitled.canvas"
   ]
 }
